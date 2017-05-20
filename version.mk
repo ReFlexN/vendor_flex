@@ -1,0 +1,2 @@
+VERSION := v1.0
+REFLEX_VERSION ?= reflex-$(VERSION)-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell date +%Y%m%d)
